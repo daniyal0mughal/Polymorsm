@@ -1,0 +1,14 @@
+C:\university\Semester 6\SCD\Polymorsm\bin\Debug\net9.0\Polymorsm.exe
+C:\university\Semester 6\SCD\Polymorsm\bin\Debug\net9.0\Polymorsm.deps.json
+C:\university\Semester 6\SCD\Polymorsm\bin\Debug\net9.0\Polymorsm.runtimeconfig.json
+C:\university\Semester 6\SCD\Polymorsm\bin\Debug\net9.0\Polymorsm.dll
+C:\university\Semester 6\SCD\Polymorsm\bin\Debug\net9.0\Polymorsm.pdb
+C:\university\Semester 6\SCD\Polymorsm\obj\Debug\net9.0\Polymorsm.GeneratedMSBuildEditorConfig.editorconfig
+C:\university\Semester 6\SCD\Polymorsm\obj\Debug\net9.0\Polymorsm.AssemblyInfoInputs.cache
+C:\university\Semester 6\SCD\Polymorsm\obj\Debug\net9.0\Polymorsm.AssemblyInfo.cs
+C:\university\Semester 6\SCD\Polymorsm\obj\Debug\net9.0\Polymorsm.csproj.CoreCompileInputs.cache
+C:\university\Semester 6\SCD\Polymorsm\obj\Debug\net9.0\Polymorsm.dll
+C:\university\Semester 6\SCD\Polymorsm\obj\Debug\net9.0\refint\Polymorsm.dll
+C:\university\Semester 6\SCD\Polymorsm\obj\Debug\net9.0\Polymorsm.pdb
+C:\university\Semester 6\SCD\Polymorsm\obj\Debug\net9.0\Polymorsm.genruntimeconfig.cache
+C:\university\Semester 6\SCD\Polymorsm\obj\Debug\net9.0\ref\Polymorsm.dll
